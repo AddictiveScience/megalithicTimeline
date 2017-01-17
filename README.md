@@ -14,7 +14,7 @@ Intellij IDEA is the preferred IDE, although support for Eclipse will eventually
 Getting the code
 ----------------
 1. You must install Git for your platform.
-2. From GitHub, create a fork of this repository: https://github.com/AddictiveScience/Node-Graph-Database-Timeline
+2. From GitHub, create a fork of this repository: https://github.com/AddictiveScience/megalithicTimeline
 3. Clone your fork: "git clone https://github.com/$YOUR_GITHUB_USERNAME/Node-Graph-Database-Timeline timeline"
 4. Choose Start -> New Project -> SBT -> Choose the root folder for the Timeline project
 
@@ -41,7 +41,7 @@ Development Lifecycle
     git commit -m "$YOUR_NAME - adding support for my feature"
     git push origin master
     ```
-6. Open a pull request against https://github.com/AddictiveScience/Node-Graph-Database-Timeline on GitHub
+6. Open a pull request against https://github.com/AddictiveScience/megalithicTimeline on GitHub
 
 Building and Running
 --------------------
