@@ -1,6 +1,9 @@
 *.class
 *.log
 
+# Neo4j
+DB/
+
 # sbt specific
 .cache
 .history
