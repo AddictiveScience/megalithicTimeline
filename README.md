@@ -21,18 +21,18 @@ Getting the code
 Development Lifecycle
 ---------------------
 1. Create a feature branch in your fork
-    ```bash
-    git checkout -b my-feature
-    ```
+```bash
+git checkout -b my-feature
+```
 2. Develop your feature, you can commit as many times as you want into your local branch.
 3. Make sure your branch is up to date with master
-    ```bash
-    # from your feature branch
-    git checkout master
-    git pull origin master
-    git checkout my-feature
-    git merge master
-    ```
+```bash
+# from your feature branch
+git checkout master
+git pull origin master
+git checkout my-feature
+git merge master
+```
 4. Run the full build lifecycle to ensure nothing is broken. Run any manual verifications you need to.
 5. Do a squashed merge into master (NOTE - Do not develop features and make spurious commits into master. All work should be done in a feature branch and then squashed into one commit on master)*[]: 
     ```bash
