@@ -1,3 +1,11 @@
+Megalithic Timeline Project 
+
+Investigative science journalism through machine learning in the hands of Citizen Scientist and open data
+
+Project Megalithic Timeline is an open source project to create a webapp for analyzing open data related to the history and peoples who built megalithic structures throughout time. We're a community-driven philanthropic project that began as a collaboration between Addictive Science, LLC, Philly GraphDB, and Neo4j. Our contributors are primarily based in the Philadelphia area, but anyone anywhere is welcome. This GitHub & Trello page are the two key repositories for the administrative and informational home of Megalithic Timeline.
+-----------
+
+
 Prequisites
 -----------
 1. You will need JDK 8 for your platform. OpenJDK is preferred.
